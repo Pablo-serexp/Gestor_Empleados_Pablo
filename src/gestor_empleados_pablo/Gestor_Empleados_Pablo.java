@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gestorempleados;
+package gestor_empleados_pablo;
 
-public class GestorEmpleados {
+public class Gestor_Empleados_Pablo {
 
     /**
      * @param args the command line arguments
